@@ -2,6 +2,12 @@
 
 A production-ready subscription management API built using Node.js, Express, and MongoDB — following Adrian Hajdin
 
+## 📸 Preview
+![Sign-Up](./screenshots/sign-up.png)
+![Sign-In](./screenshots/sign-in.png)
+![Subscription](./screenshots/sub.png)
+![Mail](./screenshots/mail.png)
+
 ## 📌 Features
 
 - ✅ RESTful API with Express.js
@@ -59,9 +65,5 @@ EMAIL_PASSWORD=your_gmail_app_password
 ### 4. Run the app
 npm run dev
 ```
-## 📸 Preview
-![Sign-Up](./screenshots/sign-up.png)
-![Sign-In](./screenshots/sign-in.png)
-![Subscription](./screenshots/sub.png)
-![Mail](./screenshots/mail.png)
+
 
